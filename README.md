@@ -25,7 +25,8 @@ https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
         minZ=40.09,
         maxZ=44.09
 ```
-<BR> To get this info you will need to know how to use Polyzone. Good video to watch is from here https://www.youtube.com/watch?v=O6KWDGARciU
+To get this info you will need to know how to use Polyzone. Good video to watch is from here https://www.youtube.com/watch?v=O6KWDGARciU
+<BR>
 <BR>
 Change Icon in client.lua look for ```icon = "fas fa-fist-raised",```
 <BR>Example: ```icon = "fas fa-plus-square",```
