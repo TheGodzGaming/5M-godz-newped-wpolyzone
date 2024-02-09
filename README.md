@@ -30,7 +30,9 @@ To get this info you will need to know how to use Polyzone.
 <BR> Type this into chat ```/pzcreate newboxzone somelocation``` use your mouse to move the Polyzone around with arrow keys, hitting the z and mouse wheel will lower the polyzone and when done ```/pzfinish```
 <BR>
 <BR>
-Change Icon in client.lua look for ```icon = "fas fa-fist-raised",```
+Change Type in client.lua look for ```type = "client",``` 
+<BR>Example: ```type = "client/server",``` 
+Change Icon in client.lua look for ```icon = "fas fa-wine-bottle",,```
 <BR>Example: ```icon = "fas fa-plus-square",```
 <BR>Using from https://www.w3schools.com/icons/default.asp
 <BR>
@@ -39,5 +41,6 @@ Change Event in client.lua look for ```event = "TRIGGER-EVENT",```
 <BR>Example: ```event = "hospital:client:dothis"```
 <BR>
 <BR>
-Change Label in client.lua look for ```label = "Raise Your Fist!",``` 
+Change Label in client.lua look for ```label = "Hello Test!",``` 
 <BR>Example: ```label = "Check In",``` 
+
