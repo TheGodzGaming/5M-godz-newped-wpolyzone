@@ -32,6 +32,7 @@ To get this info you will need to know how to use Polyzone.
 <BR>
 Change Type in client.lua look for ```type = "client",``` 
 <BR>Example: ```type = "client/server",``` 
+<BR>
 Change Icon in client.lua look for ```icon = "fas fa-wine-bottle",,```
 <BR>Example: ```icon = "fas fa-plus-square",```
 <BR>Using from https://www.w3schools.com/icons/default.asp
