@@ -16,7 +16,7 @@ Config.Peds = {
 ```
 https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
 <BR>
-<BR>
+<BR> 
 ```lua
   exports['qb-target']:AddBoxZone("NewBoxZone", vector3(309.8, -602.05, 43.29), 1, 1, {
         name = "NewBoxZone",
@@ -25,6 +25,7 @@ https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
         minZ=40.09,
         maxZ=44.09
 ```
+<BR> To get this info you will need to know how to use Polyzone. Good video to watch is from here https://www.youtube.com/watch?v=O6KWDGARciU
 <BR>
 Change Icon in client.lua look for ```icon = "fas fa-fist-raised",```
 <BR>Example: ```icon = "fas fa-plus-square",```
