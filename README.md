@@ -2,7 +2,9 @@
 
 FiveM Script to spawn new ped with QB-Target and Polyzone selection of Triggering Events
 <BR>
+<BR>
 This one fixes the issue that if other ped spawns as npc randomly in world it will show the QB-Target to trigger events. But since its triggered to a polyzone it fixes that issue.
+<BR>
 <BR>
 Change Ped Spawn location in config.lua called ```Config.Peds```
 
