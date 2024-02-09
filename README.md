@@ -17,6 +17,15 @@ Config.Peds = {
 https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
 <BR>
 <BR>
+```lua
+  exports['qb-target']:AddBoxZone("NewBoxZone", vector3(309.8, -602.05, 43.29), 1, 1, {
+        name = "NewBoxZone",
+        heading = 70,
+        debugPoly = Config.DebugPoly,
+        minZ=40.09,
+        maxZ=44.09
+```
+<BR>
 Change Icon in client.lua look for ```icon = "fas fa-fist-raised",```
 <BR>Example: ```icon = "fas fa-plus-square",```
 <BR>Using from https://www.w3schools.com/icons/default.asp
