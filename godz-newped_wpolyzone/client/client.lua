@@ -80,7 +80,7 @@ AddEventHandler('onClientResourceStart', function(resourceName)
   
   function AddTargetModel()
 
-    exports['godz-target']:AddBoxZone("NewBoxZone", vector3(309.8, -602.05, 43.29), 1, 1, {
+    exports['qb-target']:AddBoxZone("NewBoxZone", vector3(309.8, -602.05, 43.29), 1, 1, {
         name = "NewBoxZone",
         heading = 70,
         debugPoly = Config.DebugPoly,
