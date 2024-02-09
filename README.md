@@ -27,7 +27,7 @@ https://wiki.rage.mp/index.php?title=Peds to get Model Hash, Ped Model
 ```
 To get this info you will need to know how to use Polyzone. 
 <BR>Good video to watch is from here https://www.youtube.com/watch?v=O6KWDGARciU
-<BR> Type this into chat ```/pzcreate newboxzone somelocation``` use your mouse to move the Polyzone around with arrow keys, hitting the z and mouse wheel will lower the polyzone and when done ```/pzfinish``
+<BR> Type this into chat ```/pzcreate newboxzone somelocation``` use your mouse to move the Polyzone around with arrow keys, hitting the z and mouse wheel will lower the polyzone and when done ```/pzfinish```
 <BR>
 <BR>
 Change Icon in client.lua look for ```icon = "fas fa-fist-raised",```
